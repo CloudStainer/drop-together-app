@@ -774,7 +774,7 @@
             children: [
               (0, s.jsx)("span", {
                 className: "text-3xl text-pt-purple-50",
-                children: "Deploy PoolTogether Prize Vaults",
+                children: "Deploy DropTogether Prize Vaults",
               }),
               (0, s.jsx)("span", {
                 className: "text-md text-pt-purple-200",
